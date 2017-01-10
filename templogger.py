@@ -1,4 +1,4 @@
-#Modified by Marlon Jones (@VirusThePanda)
+#Modified by Marlon Jones (@MJonesDev)
 # Original Author : Matt Hawkins
 import smbus
 import time
