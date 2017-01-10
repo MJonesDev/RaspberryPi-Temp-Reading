@@ -1,5 +1,5 @@
-#Modified by Marlon Jones (@VirusThePanda)
-# Author : Matt Hawkins
+#Modified by Marlon Jones (@MJonesDev)
+# Original Author : Matt Hawkins
 import smbus
 import time
 from ctypes import c_short
